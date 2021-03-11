@@ -1,0 +1,2 @@
+# mnistdatausing
+practice
